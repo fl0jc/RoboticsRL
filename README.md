@@ -32,7 +32,7 @@ To get started with the project, follow these steps:
    Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/](https://github.com/sycamore-lab-EPFL/RoboticsRL
+   git clone https://github.com/sycamore-lab-EPFL/RoboticsRL
    ```
 
 2. **Run the first notebook**
